@@ -1,5 +1,5 @@
 # YBOT
-YBOT是YBB开发的基于onebot的机器人
+YBOT是YBB开发的基于onebot的机器人,只要支持Onebot的框架基本都可以运行
 ## YBOT的Api
 UserApi是为二次开发而设计的api，你可以用它基于ybot创作
 ### UserApi
